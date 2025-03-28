@@ -39,7 +39,7 @@ cd student-management-system
 ```sh
 gcc student_management.c -o student_management
 ```
-### **1. Clone or Download the Project**
+### **3. Run the program**
 ```sh
 ./student_management
 ```
