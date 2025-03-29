@@ -58,7 +58,7 @@ If you want to download only one project, follow these steps:
 🔹 Using Git Commands
 If you prefer downloading only one folder using Git:
 ```bash
-git clone --depth 1 --filter=blob:none --sparse https://github.com/yourusername/c-programming-projects.git
+git clone --depth 1 --filter=blob:none --sparse https://github.com/Dibyaranjan27/c-programming-projects.git
 cd c-programming-projects
 git sparse-checkout set student-management-system
 ```
